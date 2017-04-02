@@ -1373,7 +1373,6 @@ function merge_tuples (diffs, start, length) {
 }
 
 },{}],8:[function(require,module,exports){
-var Delta = require('./delta/');
-console.log(Delta);
+Delta = require('./delta/');
 
 },{"./delta/":1}]},{},[8]);

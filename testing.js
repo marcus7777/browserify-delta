@@ -1,2 +1,1 @@
-var Delta = require('./delta/');
-console.log(Delta);
+Delta = require('./delta/');
