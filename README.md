@@ -6,5 +6,5 @@ by running
 ```
 cd delta/
 npm install
-browserify lib/delta.js -o ../browserify-delta.js
+browserify testing.js -o browserify-delta.js
  ```
